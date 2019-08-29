@@ -52,7 +52,7 @@ public class A1Adept {
 	
 		// Print consumer's information
 		for (int i=0; i<count; i++) {
-			System.out.println(firstName[i].charAt(0)+"."+lastName[i]+": "+String.format("%.2f", total[i]));
+			System.out.println(firstName[i].charAt(0)+". "+lastName[i]+": "+String.format("%.2f", total[i]));
 		}
     }
 }
