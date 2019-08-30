@@ -22,7 +22,7 @@ public class A1Adept {
 		Double [] total = new Double[count];
 		Double sum = 0.0;
 				
-		// Read values into the array
+		// Read values into the arrays
 		
 		for (int i=0; i<count; i++) {
 			firstName[i] = scan.next();
